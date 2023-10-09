@@ -60,6 +60,27 @@ Kemudian wrap text tadi dengan card supaya menjadi seperti berikut.
 
 ![Screenshot main.dart](my_awesome_namer/docs_images/09.png)
 
+Selanjutnya adalah menambahkan theme dan style, caranya adalah berikut. 
+Kita bisa mengubah warna dengan mengganti ColorScheme, pada kali ini saya menggunakan ColorScheme teal.
+
+![Screenshot main.dart](my_awesome_namer/docs_images/10.png)
+
+Setelah itu, kita bisa mengubah style dari text dengan mengubah TextStyle, caranya adalah sebagai berikut.
+
+![Screenshot main.dart](my_awesome_namer/docs_images/11.png)
+
+Kemudian, langkah selanjutnya adalah meningkatkan aksebilitas dari aplikasi yang kita buat. Caranya adalah dengan menambahkan ```Semantics```.
+
+![Screenshot main.dart](my_awesome_namer/docs_images/12.png)
+
+Selanjutnya membuat UI ke tengah.
+
+![Screenshot main.dart](my_awesome_namer/docs_images/13.png)
+
+Membuat UI lebih clean dengan menghapus text diatas card dan menambahkan sizedbox.
+
+![Screenshot main.dart](my_awesome_namer/docs_images/14.png)
+
 ## Add functionality
 
 ## Add navigation rail
