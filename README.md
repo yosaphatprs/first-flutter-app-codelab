@@ -83,6 +83,22 @@ Membuat UI lebih clean dengan menghapus text diatas card dan menambahkan sizedbo
 
 ## Add functionality
 
+Pada langkah ini, ditambahkan button like seperti berikut.
+
+![Screenshot main.dart](my_awesome_namer/docs_images/15.png)
+
 ## Add navigation rail
 
+Selanjutnya membagi MyHomePage menjadi 2 widget seperti berikut.
+
+![Screenshot main.dart](my_awesome_namer/docs_images/16.png)
+
+Setelah itu berikut hasilnya setelah tampilan menjadi lebih responsive.
+
+![Screenshot main.dart](my_awesome_namer/docs_images/17.png)
+
 ## Add a new page
+
+Akhir dari aplikasi ini adalah ditambahkannya sebuah halaman untuk menampilkan favorites dari kata-kata yang sudah disukai. Hasilnya adalah sebagai berikut.
+
+![Screenshot main.dart](my_awesome_namer/docs_images/18.png)
